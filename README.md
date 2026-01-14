@@ -55,4 +55,3 @@ Open Superstore_Dashboard.pbix
 
 Use the slicers (filters) to explore data by Region, Category, or Segment
 
-<!-- render trigger -->
