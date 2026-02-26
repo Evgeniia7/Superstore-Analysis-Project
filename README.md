@@ -4,6 +4,8 @@
 
 This project provides a comprehensive analysis of the Superstore Dataset, demonstrating a complete data workflow from raw CSV data processing using Python and SQL (DuckDB) to professional business intelligence visualization in Power BI. The goal is to extract actionable insights on sales performance, regional trends, and profit margins.
 
+Dashboard Preview
+<img width="1764" height="777" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/2c54b0f8-e946-493f-8c8e-369f8a4bcac5" />
 ---
 
 ## Features
@@ -55,5 +57,4 @@ Open Superstore_Dashboard.pbix
 
 Use the slicers (filters) to explore data by Region, Category, or Segment
 
-<img width="1764" height="777" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/2c54b0f8-e946-493f-8c8e-369f8a4bcac5" />
 
