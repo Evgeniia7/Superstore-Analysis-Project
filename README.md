@@ -1,19 +1,19 @@
 # Superstore Analysis Project
 
 ## Overview
+This project provides a comprehensive analysis of the Superstore Dataset, demonstrating a complete data workflow from raw CSV data processing using Python and SQL (DuckDB) to professional business intelligence visualization in Power BI. The goal is to extract actionable insights on sales performance, regional trends, and profit margins to support data-driven decision-making.
 
-This project provides a comprehensive analysis of the Superstore Dataset, demonstrating a complete data workflow from raw CSV data processing using Python and SQL (DuckDB) to professional business intelligence visualization in Power BI. The goal is to extract actionable insights on sales performance, regional trends, and profit margins.
-
-Dashboard Preview
+## Dashboard Preview
 <img width="1764" height="777" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/2c54b0f8-e946-493f-8c8e-369f8a4bcac5" />
 
----
-
 ## Features
+SQL Integration: High-performance SQL queries executed directly on CSV files using DuckDB.
 
-- **SQL Integration**: Perform high-performance SQL queries directly on CSV files using DuckDB.  
-- **Python Data Processing**: Clean and prepare the dataset, including handling encoding issues for non-UTF-8 (Latin-1) files.  
-- **Business Intelligence Visualization**: Create an interactive Power BI dashboard to monitor key performance indicators (KPIs) such as sales trends, regional performance, and profit margins.
+Python Data Processing: Data cleaning and preparation, including handling encoding issues for non-UTF-8 (Latin-1) files.
+
+Business Intelligence: Interactive Power BI dashboard monitoring key performance indicators (KPIs) such as total sales, profit trends, and regional performance.
+
+Loss Analysis: Targeted identification of unprofitable orders with high quantity for strategic review.
 
 ---
 
