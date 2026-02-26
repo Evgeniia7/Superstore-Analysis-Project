@@ -6,6 +6,7 @@ This project provides a comprehensive analysis of the Superstore Dataset, demons
 
 Dashboard Preview
 <img width="1764" height="777" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/2c54b0f8-e946-493f-8c8e-369f8a4bcac5" />
+
 ---
 
 ## Features
